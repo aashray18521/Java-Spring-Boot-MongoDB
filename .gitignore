@@ -25,4 +25,5 @@ replay_pid*
 
 build/*
 
+*/application.properties
 src/main/resources/application.properties
